@@ -1,0 +1,26 @@
+h1 {
+    font-size: 20px;
+}
+
+#texto-principal {
+    font-size: 40px;
+    font-weight: bold;
+    padding: 5px;
+    color: white;
+    background-color: black;
+}
+
+#texto-secundario {
+    font-size: 25px;
+    color: white;
+}
+
+.fundo-vermelho {
+    background-color: red; 
+    background-color: #f00; 
+    background-color: rgb(255, 0, 0); 
+} 
+
+.fundo-azul {
+    background-color: blue;
+}
